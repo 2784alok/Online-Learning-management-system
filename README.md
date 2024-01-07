@@ -1,2 +1,2 @@
-# Online-Learning-management-system
-🚀 Explore our Online Learning Platform! This repo houses HTML, CSS, and basic JS for a modern, responsive site, delivering an immersive online education experience. Discover user-friendly sections—home, categories, courses—providing seamless navigation and showcasing popular content.
+
+🚀 Hey everyone! I'm excited to share our first-semester project – an Online Learning Platform we created as a team using HTML, CSS, and JavaScript. It's like a website where you can learn cool stuff online. Me and my teammate worked together, combining our skills to make it happen. I'm aiming to become a Full Stack Web Developer, and this project shows our teamwork and my passion for building awesome things on the web. Looking forward to more adventures in web development! 🌐💻 #WebDevelopment #TeamworkGoals
